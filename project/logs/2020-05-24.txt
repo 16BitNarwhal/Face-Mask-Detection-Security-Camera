@@ -1,0 +1,10 @@
+21:29:56-> Mask: 1 No mask: 0
+21:31:14-> Mask: 0 No mask: 1
+21:31:14-> Mask: 1 No mask: 0
+21:31:15-> Mask: 0 No mask: 1
+21:31:16-> Mask: 1 No mask: 0
+21:31:17-> Mask: 0 No mask: 1
+21:31:18-> Mask: 1 No mask: 0
+21:31:23-> Mask: 1 No mask: 0
+21:31:24-> Mask: 1 No mask: 0
+21:31:25-> Mask: 1 No mask: 0

@@ -1,0 +1,4 @@
+You need to manually install the following:
+	numpy
+	imutils
+	opencv
